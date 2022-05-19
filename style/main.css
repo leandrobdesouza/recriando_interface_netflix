@@ -120,9 +120,17 @@ header nav a:hover{
     }
 
 
+/*pagina filmes*/
 
-
-
+.video{
+    margin: 100px;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
